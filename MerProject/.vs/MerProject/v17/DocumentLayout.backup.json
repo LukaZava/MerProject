@@ -3,48 +3,88 @@
   "WorkspaceRootPath": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\data\\firstnames.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\data\\firstnames.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\interfaces\\icustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\interfaces\\icustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\data\\cities.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\data\\cities.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\dto\\createcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\dto\\createcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\dto\\updatecustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\dto\\updatecustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\dto\\customerdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\dto\\customerdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\models\\merdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\models\\merdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\dto\\customerstatsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\dto\\customerstatsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\dto\\customerlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\dto\\customerlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\migrations\\merdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\migrations\\merdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\dto\\deactivatecustomersresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\dto\\deactivatecustomersresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\dto\\citycountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\dto\\citycountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\data\\countries.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\data\\countries.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\data\\lastnames.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\data\\lastnames.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\data\\seederservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\data\\seederservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\dto\\deactivatecustomersresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\dto\\deactivatecustomersresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\models\\merdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\models\\merdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\interfaces\\icustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\interfaces\\icustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\migrations\\merdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\migrations\\merdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\migrations\\20260309194733_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\migrations\\20260309194733_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\dto\\updatecustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\dto\\updatecustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -55,30 +95,6 @@
       "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\data\\seederservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\data\\seederservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\data\\lastnames.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\data\\lastnames.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\data\\firstnames.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\data\\firstnames.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\data\\countries.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\data\\countries.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\data\\cities.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\data\\cities.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\middleware\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\middleware\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -87,28 +103,12 @@
       "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\middleware\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\dto\\customerlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\dto\\customerlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\dto\\customerdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\dto\\customerdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\dto\\paginationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\dto\\paginationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\dto\\getquerydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\dto\\getquerydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\dto\\customerstatsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\dto\\customerstatsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|c:\\users\\korisnik\\onedrive - algebra\\radna povr\u0161ina\\merproj\\merproject\\merproj\\migrations\\20260309194733_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC262591-DFCF-46E9-9C5E-9A2C011095DE}|MERPROJ\\MERPROJ.csproj|solutionrelative:merproj\\migrations\\20260309194733_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -122,43 +122,59 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MerDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Migrations\\MerDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "MERPROJ\\Migrations\\MerDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Migrations\\MerDbContextModelSnapshot.cs",
-              "RelativeToolTip": "MERPROJ\\Migrations\\MerDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "CustomerStatsDto.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\DTO\\CustomerStatsDto.cs",
+              "RelativeDocumentMoniker": "MERPROJ\\DTO\\CustomerStatsDto.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\DTO\\CustomerStatsDto.cs",
+              "RelativeToolTip": "MERPROJ\\DTO\\CustomerStatsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T15:52:26.591Z"
+              "WhenOpened": "2026-03-09T18:27:01.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerListDto.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\DTO\\CustomerListDto.cs",
+              "RelativeDocumentMoniker": "MERPROJ\\DTO\\CustomerListDto.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\DTO\\CustomerListDto.cs",
+              "RelativeToolTip": "MERPROJ\\DTO\\CustomerListDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T18:17:24.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\DTO\\CustomerDetailsDto.cs",
+              "RelativeDocumentMoniker": "MERPROJ\\DTO\\CustomerDetailsDto.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\DTO\\CustomerDetailsDto.cs",
+              "RelativeToolTip": "MERPROJ\\DTO\\CustomerDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T18:20:02.348Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CustomersController.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Controllers\\CustomersController.cs",
-              "RelativeDocumentMoniker": "MERPROJ\\Controllers\\CustomersController.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Controllers\\CustomersController.cs",
-              "RelativeToolTip": "MERPROJ\\Controllers\\CustomersController.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAmwFUAAAAIAAAAAAAAAA==",
+              "Title": "CreateCustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\DTO\\CreateCustomerDto.cs",
+              "RelativeDocumentMoniker": "MERPROJ\\DTO\\CreateCustomerDto.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\DTO\\CreateCustomerDto.cs",
+              "RelativeToolTip": "MERPROJ\\DTO\\CreateCustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T19:03:34.267Z"
+              "WhenOpened": "2026-03-09T18:20:28.54Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "MERPROJ\\Models\\Customer.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Models\\Customer.cs",
-              "RelativeToolTip": "MERPROJ\\Models\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T17:57:11.04Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "CityCountDto.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\DTO\\CityCountDto.cs",
               "RelativeDocumentMoniker": "MERPROJ\\DTO\\CityCountDto.cs",
@@ -166,11 +182,116 @@
               "RelativeToolTip": "MERPROJ\\DTO\\CityCountDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T18:26:43.417Z"
+              "WhenOpened": "2026-03-09T18:26:43.417Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "firstnames.txt",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Data\\firstnames.txt",
+              "RelativeDocumentMoniker": "MERPROJ\\Data\\firstnames.txt",
+              "ToolTip": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Data\\firstnames.txt",
+              "RelativeToolTip": "MERPROJ\\Data\\firstnames.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-03-09T20:04:10.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cities.txt",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Data\\cities.txt",
+              "RelativeDocumentMoniker": "MERPROJ\\Data\\cities.txt",
+              "ToolTip": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Data\\cities.txt",
+              "RelativeToolTip": "MERPROJ\\Data\\cities.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-03-09T20:04:30.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "countries.txt",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Data\\countries.txt",
+              "RelativeDocumentMoniker": "MERPROJ\\Data\\countries.txt",
+              "ToolTip": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Data\\countries.txt",
+              "RelativeToolTip": "MERPROJ\\Data\\countries.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-03-09T20:04:41.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "MERPROJ\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\WeatherForecast.cs",
+              "RelativeToolTip": "MERPROJ\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T20:12:55.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Program.cs",
+              "RelativeDocumentMoniker": "MERPROJ\\Program.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Program.cs",
+              "RelativeToolTip": "MERPROJ\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T17:55:21.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "lastnames.txt",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Data\\lastnames.txt",
+              "RelativeDocumentMoniker": "MERPROJ\\Data\\lastnames.txt",
+              "ToolTip": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Data\\lastnames.txt",
+              "RelativeToolTip": "MERPROJ\\Data\\lastnames.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-03-09T20:04:20.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SeederService.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Data\\SeederService.cs",
+              "RelativeDocumentMoniker": "MERPROJ\\Data\\SeederService.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Data\\SeederService.cs",
+              "RelativeToolTip": "MERPROJ\\Data\\SeederService.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAgwDUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T20:05:37.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeactivateCustomersResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\DTO\\DeactivateCustomersResponseDto.cs",
+              "RelativeDocumentMoniker": "MERPROJ\\DTO\\DeactivateCustomersResponseDto.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\DTO\\DeactivateCustomersResponseDto.cs",
+              "RelativeToolTip": "MERPROJ\\DTO\\DeactivateCustomersResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T18:26:17.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "MerDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Models\\MerDbContext.cs",
               "RelativeDocumentMoniker": "MERPROJ\\Models\\MerDbContext.cs",
@@ -178,11 +299,12 @@
               "RelativeToolTip": "MERPROJ\\Models\\MerDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T17:59:57.2Z"
+              "WhenOpened": "2026-03-09T17:59:57.2Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 14,
               "Title": "CustomerService.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Services\\CustomerService.cs",
               "RelativeDocumentMoniker": "MERPROJ\\Services\\CustomerService.cs",
@@ -195,7 +317,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 15,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "MERPROJ\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Models\\Customer.cs",
+              "RelativeToolTip": "MERPROJ\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T17:57:11.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "ICustomer.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Interfaces\\ICustomer.cs",
               "RelativeDocumentMoniker": "MERPROJ\\Interfaces\\ICustomer.cs",
@@ -203,11 +338,38 @@
               "RelativeToolTip": "MERPROJ\\Interfaces\\ICustomer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T18:28:33.456Z"
+              "WhenOpened": "2026-03-09T18:28:33.456Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 17,
+              "Title": "MerDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Migrations\\MerDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MERPROJ\\Migrations\\MerDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Migrations\\MerDbContextModelSnapshot.cs",
+              "RelativeToolTip": "MERPROJ\\Migrations\\MerDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T15:52:26.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20260309194733_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Migrations\\20260309194733_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MERPROJ\\Migrations\\20260309194733_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Migrations\\20260309194733_InitialCreate.cs",
+              "RelativeToolTip": "MERPROJ\\Migrations\\20260309194733_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T19:47:34.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "UpdateCustomerDto.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\DTO\\UpdateCustomerDto.cs",
               "RelativeDocumentMoniker": "MERPROJ\\DTO\\UpdateCustomerDto.cs",
@@ -219,31 +381,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateCustomerDto.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\DTO\\CreateCustomerDto.cs",
-              "RelativeDocumentMoniker": "MERPROJ\\DTO\\CreateCustomerDto.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\DTO\\CreateCustomerDto.cs",
-              "RelativeToolTip": "MERPROJ\\DTO\\CreateCustomerDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 19,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "MERPROJ\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "MERPROJ\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAmwFUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T18:20:28.54Z"
+              "WhenOpened": "2026-03-09T19:03:34.267Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Program.cs",
-              "RelativeDocumentMoniker": "MERPROJ\\Program.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Program.cs",
-              "RelativeToolTip": "MERPROJ\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T17:55:21.607Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\appsettings.json",
               "RelativeDocumentMoniker": "MERPROJ\\appsettings.json",
@@ -255,67 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "20260309194733_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Migrations\\20260309194733_InitialCreate.cs",
-              "RelativeDocumentMoniker": "MERPROJ\\Migrations\\20260309194733_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Migrations\\20260309194733_InitialCreate.cs",
-              "RelativeToolTip": "MERPROJ\\Migrations\\20260309194733_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T19:47:34.077Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "firstnames.txt",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Data\\firstnames.txt",
-              "RelativeDocumentMoniker": "MERPROJ\\Data\\firstnames.txt",
-              "ToolTip": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Data\\firstnames.txt",
-              "RelativeToolTip": "MERPROJ\\Data\\firstnames.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-03-09T20:04:10.324Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "lastnames.txt",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Data\\lastnames.txt",
-              "RelativeDocumentMoniker": "MERPROJ\\Data\\lastnames.txt",
-              "ToolTip": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Data\\lastnames.txt",
-              "RelativeToolTip": "MERPROJ\\Data\\lastnames.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-03-09T20:04:20.483Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DeactivateCustomersResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\DTO\\DeactivateCustomersResponseDto.cs",
-              "RelativeDocumentMoniker": "MERPROJ\\DTO\\DeactivateCustomersResponseDto.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\DTO\\DeactivateCustomersResponseDto.cs",
-              "RelativeToolTip": "MERPROJ\\DTO\\DeactivateCustomersResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T18:26:17.85Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "cities.txt",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Data\\cities.txt",
-              "RelativeDocumentMoniker": "MERPROJ\\Data\\cities.txt",
-              "ToolTip": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Data\\cities.txt",
-              "RelativeToolTip": "MERPROJ\\Data\\cities.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-03-09T20:04:30.896Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 22,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\appsettings.Development.json",
               "RelativeDocumentMoniker": "MERPROJ\\appsettings.Development.json",
@@ -327,55 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "SeederService.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Data\\SeederService.cs",
-              "RelativeDocumentMoniker": "MERPROJ\\Data\\SeederService.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Data\\SeederService.cs",
-              "RelativeToolTip": "MERPROJ\\Data\\SeederService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T20:05:37.597Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "MERPROJ\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\WeatherForecast.cs",
-              "RelativeToolTip": "MERPROJ\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T20:12:55.729Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "countries.txt",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Data\\countries.txt",
-              "RelativeDocumentMoniker": "MERPROJ\\Data\\countries.txt",
-              "ToolTip": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Data\\countries.txt",
-              "RelativeToolTip": "MERPROJ\\Data\\countries.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-03-09T20:04:41.185Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "CustomerListDto.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\DTO\\CustomerListDto.cs",
-              "RelativeDocumentMoniker": "MERPROJ\\DTO\\CustomerListDto.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\DTO\\CustomerListDto.cs",
-              "RelativeToolTip": "MERPROJ\\DTO\\CustomerListDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T18:17:24.876Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "LoggingMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Middleware\\LoggingMiddleware.cs",
               "RelativeDocumentMoniker": "MERPROJ\\Middleware\\LoggingMiddleware.cs",
@@ -387,7 +429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "ExceptionHandler.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\Middleware\\ExceptionHandler.cs",
               "RelativeDocumentMoniker": "MERPROJ\\Middleware\\ExceptionHandler.cs",
@@ -399,19 +441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "CustomerDetailsDto.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\DTO\\CustomerDetailsDto.cs",
-              "RelativeDocumentMoniker": "MERPROJ\\DTO\\CustomerDetailsDto.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\DTO\\CustomerDetailsDto.cs",
-              "RelativeToolTip": "MERPROJ\\DTO\\CustomerDetailsDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T18:20:02.348Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "PaginationDto.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\DTO\\PaginationDto.cs",
               "RelativeDocumentMoniker": "MERPROJ\\DTO\\PaginationDto.cs",
@@ -423,7 +453,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "GetQueryDto.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\DTO\\GetQueryDto.cs",
               "RelativeDocumentMoniker": "MERPROJ\\DTO\\GetQueryDto.cs",
@@ -432,18 +462,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T18:25:29.196Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "CustomerStatsDto.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\DTO\\CustomerStatsDto.cs",
-              "RelativeDocumentMoniker": "MERPROJ\\DTO\\CustomerStatsDto.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\OneDrive - Algebra\\Radna povr\u0161ina\\MerProj\\MerProject\\MERPROJ\\DTO\\CustomerStatsDto.cs",
-              "RelativeToolTip": "MERPROJ\\DTO\\CustomerStatsDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T18:27:01.405Z"
             }
           ]
         }

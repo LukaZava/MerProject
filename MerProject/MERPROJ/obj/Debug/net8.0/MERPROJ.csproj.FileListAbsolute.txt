@@ -137,3 +137,4 @@ C:\Users\Korisnik\OneDrive - Algebra\Radna površina\MerProj\MerProject\MERPROJ\
 C:\Users\Korisnik\OneDrive - Algebra\Radna površina\MerProj\MerProject\MERPROJ\obj\Debug\net8.0\MERPROJ.pdb
 C:\Users\Korisnik\OneDrive - Algebra\Radna površina\MerProj\MerProject\MERPROJ\obj\Debug\net8.0\MERPROJ.genruntimeconfig.cache
 C:\Users\Korisnik\OneDrive - Algebra\Radna površina\MerProj\MerProject\MERPROJ\obj\Debug\net8.0\ref\MERPROJ.dll
+C:\Users\Korisnik\OneDrive - Algebra\Radna površina\MerProj\MerProject\MERPROJ\obj\Debug\net8.0\MERPROJ.sourcelink.json

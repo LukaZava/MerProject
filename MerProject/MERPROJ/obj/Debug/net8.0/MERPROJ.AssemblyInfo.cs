@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MERPROJ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93b73330484cc7e69ba0e72023b9e605682b5439")]
 [assembly: System.Reflection.AssemblyProductAttribute("MERPROJ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MERPROJ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
